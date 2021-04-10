@@ -1,0 +1,27 @@
+body {background-color:black;}
+h1
+{
+    color:gray;
+    font-family: verdana;
+    font-size : 20px;
+}
+
+.maindiv
+{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    border-radius: 25px;
+}
+
+div
+{   display: block;
+    margin: auto;
+}
+
+
+footer{
+  margin: 10px;
+}

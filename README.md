@@ -1,1 +1,1 @@
-# SimpleIneterestCalculator
+# coding-project-template
